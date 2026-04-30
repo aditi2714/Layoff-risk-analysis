@@ -2,7 +2,7 @@
 
 > End-to-end data analytics project analyzing global tech and corporate layoffs — from raw data cleaning to risk scoring to interactive Power BI dashboard.
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard/Dashboard.png)
 
 ---
 
